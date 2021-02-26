@@ -80,7 +80,7 @@ file connect() function. <br>
 I want to build this messenger into the biggest open source messenger on the web with all functionalities from the top Messengers like Whatsapp, Telegram, Signal, Snapchat, etc. There a lot of features still to be added like end-to-end encryption, audio messages, audio/video calling, stories, etc. So, we are open to pull requests. Please contribute in any way you can, adding new features, finding or fixing bugs, adding to the documenation, better code commenting, etc. 
 
 ## Contributing
-If you want to contribute to this project other than by coding, please contact me here digantakalita.ai@gmail.com
+If you want to contribute to this project other than by coding, please contact me here sdsohan48@gmail.com
 
 ## License
-[MIT License](https://github.com/realdiganta/hitup-messenger/blob/master/LICENSE)
+
